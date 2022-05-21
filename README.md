@@ -7,7 +7,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/guilhermelim/To-do-List" display="block">
+  <a href="https://github.com/guilhermelim/projeto-crud" display="block">
     <img src="logo.png" alt="Product Logo" width="500">    
   </a>
   <h3 align="center">Projeto CRUD</h3>
@@ -15,7 +15,7 @@
 
 # projeto-crud
 
-Esse é um simples projeto de um CRUD construído em node.js
+Esse é um simples projeto de um CRUD construído em node.js.
 Escrito com códigos de alto desempenho e projetado utilizando padrões de projeto tais como MVC, visando uma engenharia de software adequada para escalar.
 
 ### Construído Com
