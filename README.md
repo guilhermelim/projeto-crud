@@ -2,7 +2,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/guilhermelim/projeto-crud?style=for-the-badge)](https://github.com/guilhermelim/projeto-crud/network)
 [![GitHub stars](https://img.shields.io/github/stars/guilhermelim/projeto-crud?style=for-the-badge)](https://github.com/guilhermelim/projeto-crud/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/guilhermelim/projeto-crud?style=for-the-badge)](https://github.com/guilhermelim/projeto-crud/issues)
-[![GitHub license](https://img.shields.io/github/license/guilhermelim/projeto-crud?style=for-the-badge)](https://github.com/guilhermelim/projeto-crud/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/guilhermelim/projeto-crud?style=for-the-badge)](https://github.com/guilhermelim/projeto-crud/blob/master/LICENSE)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/guilhermelim)
 
 <br />
